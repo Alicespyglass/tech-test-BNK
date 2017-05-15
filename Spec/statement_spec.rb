@@ -10,7 +10,6 @@ describe Statement do
       statement.record(transaction)
       expect(statement.ledger).to include(transaction)
     end
-
   end
 
   describe '#print' do

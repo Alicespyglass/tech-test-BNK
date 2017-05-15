@@ -1,6 +1,8 @@
-# User interface 
+# User interface
 # - directs Account transactions (withdrawals, deposits)
-# - directs update to Statement
+# - creates transaction object
+# - directs transaction object to Statement
+# - asks for ledger from Statement 
 
 class ATM
 
