@@ -1,6 +1,5 @@
 # Holds balance
-# Takes deposits
-# Accepts withdrawals
+# Updates balance
 
 class Account
 
